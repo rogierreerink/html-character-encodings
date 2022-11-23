@@ -5,14 +5,6 @@
     },
     {
         "character": "\"",
-        "entity": "&QUOT"
-    },
-    {
-        "character": "\"",
-        "entity": "&quot"
-    },
-    {
-        "character": "\"",
         "entity": "&QUOT;"
     },
     {
@@ -22,14 +14,6 @@
     {
         "character": "%",
         "entity": "&percnt;"
-    },
-    {
-        "character": "&",
-        "entity": "&AMP"
-    },
-    {
-        "character": "&",
-        "entity": "&amp"
     },
     {
         "character": "&",
@@ -85,14 +69,6 @@
     },
     {
         "character": "<",
-        "entity": "&LT"
-    },
-    {
-        "character": "<",
-        "entity": "&lt"
-    },
-    {
-        "character": "<",
         "entity": "&LT;"
     },
     {
@@ -102,14 +78,6 @@
     {
         "character": "=",
         "entity": "&equals;"
-    },
-    {
-        "character": ">",
-        "entity": "&GT"
-    },
-    {
-        "character": ">",
-        "entity": "&gt"
     },
     {
         "character": ">",
@@ -165,10 +133,6 @@
     },
     {
         "character": "¡",
-        "entity": "&iexcl"
-    },
-    {
-        "character": "¡",
         "entity": "&iexcl;"
     },
     {
@@ -177,19 +141,11 @@
     },
     {
         "character": "¢",
-        "entity": "&cent"
-    },
-    {
-        "character": "¢",
         "entity": "&cent;"
     },
     {
         "character": "¢",
         "entity": "&#162;"
-    },
-    {
-        "character": "£",
-        "entity": "&pound"
     },
     {
         "character": "£",
@@ -205,10 +161,6 @@
     },
     {
         "character": "¥",
-        "entity": "&yen"
-    },
-    {
-        "character": "¥",
         "entity": "&yen;"
     },
     {
@@ -221,19 +173,11 @@
     },
     {
         "character": "§",
-        "entity": "&sect"
-    },
-    {
-        "character": "§",
         "entity": "&sect;"
     },
     {
         "character": "§",
         "entity": "&#167;"
-    },
-    {
-        "character": "¤",
-        "entity": "&curren"
     },
     {
         "character": "¤",
@@ -245,19 +189,11 @@
     },
     {
         "character": "«",
-        "entity": "&laquo"
-    },
-    {
-        "character": "«",
         "entity": "&laquo;"
     },
     {
         "character": "«",
         "entity": "&#171;"
-    },
-    {
-        "character": "°",
-        "entity": "&deg"
     },
     {
         "character": "°",
@@ -273,10 +209,6 @@
     },
     {
         "character": "±",
-        "entity": "&plusmn"
-    },
-    {
-        "character": "±",
         "entity": "&plusmn;"
     },
     {
@@ -289,19 +221,11 @@
     },
     {
         "character": "²",
-        "entity": "&sup2"
-    },
-    {
-        "character": "²",
         "entity": "&sup2;"
     },
     {
         "character": "²",
         "entity": "&#178;"
-    },
-    {
-        "character": "³",
-        "entity": "&sup3"
     },
     {
         "character": "³",
@@ -313,10 +237,6 @@
     },
     {
         "character": "×",
-        "entity": "&times"
-    },
-    {
-        "character": "×",
         "entity": "&times;"
     },
     {
@@ -325,19 +245,11 @@
     },
     {
         "character": "µ",
-        "entity": "&micro"
-    },
-    {
-        "character": "µ",
         "entity": "&micro;"
     },
     {
         "character": "µ",
         "entity": "&#181;"
-    },
-    {
-        "character": "¶",
-        "entity": "&para"
     },
     {
         "character": "¶",
@@ -357,10 +269,6 @@
     },
     {
         "character": "·",
-        "entity": "&middot"
-    },
-    {
-        "character": "·",
         "entity": "&middot;"
     },
     {
@@ -373,19 +281,11 @@
     },
     {
         "character": "÷",
-        "entity": "&divide"
-    },
-    {
-        "character": "÷",
         "entity": "&divide;"
     },
     {
         "character": "÷",
         "entity": "&#247;"
-    },
-    {
-        "character": "»",
-        "entity": "&raquo"
     },
     {
         "character": "»",
@@ -397,19 +297,11 @@
     },
     {
         "character": "¼",
-        "entity": "&frac14"
-    },
-    {
-        "character": "¼",
         "entity": "&frac14;"
     },
     {
         "character": "¼",
         "entity": "&#188;"
-    },
-    {
-        "character": "½",
-        "entity": "&frac12"
     },
     {
         "character": "½",
@@ -425,19 +317,11 @@
     },
     {
         "character": "¾",
-        "entity": "&frac34"
-    },
-    {
-        "character": "¾",
         "entity": "&frac34;"
     },
     {
         "character": "¾",
         "entity": "&#190;"
-    },
-    {
-        "character": "¿",
-        "entity": "&iquest"
     },
     {
         "character": "¿",
@@ -450,10 +334,6 @@
     {
         "character": "Ω",
         "entity": "&#8486;"
-    },
-    {
-        "character": "Æ",
-        "entity": "&AElig"
     },
     {
         "character": "Æ",
@@ -470,10 +350,6 @@
     {
         "character": "Đ",
         "entity": "&#272;"
-    },
-    {
-        "character": "ª",
-        "entity": "&ordf"
     },
     {
         "character": "ª",
@@ -509,10 +385,6 @@
     },
     {
         "character": "Ø",
-        "entity": "&Oslash"
-    },
-    {
-        "character": "Ø",
         "entity": "&Oslash;"
     },
     {
@@ -529,19 +401,11 @@
     },
     {
         "character": "º",
-        "entity": "&ordm"
-    },
-    {
-        "character": "º",
         "entity": "&ordm;"
     },
     {
         "character": "º",
         "entity": "&#186;"
-    },
-    {
-        "character": "Þ",
-        "entity": "&THORN"
     },
     {
         "character": "Þ",
@@ -585,10 +449,6 @@
     },
     {
         "character": "æ",
-        "entity": "&aelig"
-    },
-    {
-        "character": "æ",
         "entity": "&aelig;"
     },
     {
@@ -602,10 +462,6 @@
     {
         "character": "đ",
         "entity": "&#273;"
-    },
-    {
-        "character": "ð",
-        "entity": "&eth"
     },
     {
         "character": "ð",
@@ -653,10 +509,6 @@
     },
     {
         "character": "ø",
-        "entity": "&oslash"
-    },
-    {
-        "character": "ø",
         "entity": "&oslash;"
     },
     {
@@ -673,19 +525,11 @@
     },
     {
         "character": "ß",
-        "entity": "&szlig"
-    },
-    {
-        "character": "ß",
         "entity": "&szlig;"
     },
     {
         "character": "ß",
         "entity": "&#223;"
-    },
-    {
-        "character": "þ",
-        "entity": "&thorn"
     },
     {
         "character": "þ",
@@ -713,19 +557,11 @@
     },
     {
         "character": "À",
-        "entity": "&Agrave"
-    },
-    {
-        "character": "À",
         "entity": "&Agrave;"
     },
     {
         "character": "À",
         "entity": "&#192;"
-    },
-    {
-        "character": "Á",
-        "entity": "&Aacute"
     },
     {
         "character": "Á",
@@ -737,19 +573,11 @@
     },
     {
         "character": "Â",
-        "entity": "&Acirc"
-    },
-    {
-        "character": "Â",
         "entity": "&Acirc;"
     },
     {
         "character": "Â",
         "entity": "&#194;"
-    },
-    {
-        "character": "Ã",
-        "entity": "&Atilde"
     },
     {
         "character": "Ã",
@@ -777,10 +605,6 @@
     },
     {
         "character": "Ä",
-        "entity": "&Auml"
-    },
-    {
-        "character": "Ä",
         "entity": "&Auml;"
     },
     {
@@ -790,10 +614,6 @@
     {
         "character": "Å",
         "entity": "&angst;"
-    },
-    {
-        "character": "Å",
-        "entity": "&Aring"
     },
     {
         "character": "Å",
@@ -837,10 +657,6 @@
     },
     {
         "character": "Ç",
-        "entity": "&Ccedil"
-    },
-    {
-        "character": "Ç",
         "entity": "&Ccedil;"
     },
     {
@@ -865,10 +681,6 @@
     },
     {
         "character": "È",
-        "entity": "&Egrave"
-    },
-    {
-        "character": "È",
         "entity": "&Egrave;"
     },
     {
@@ -877,19 +689,11 @@
     },
     {
         "character": "É",
-        "entity": "&Eacute"
-    },
-    {
-        "character": "É",
         "entity": "&Eacute;"
     },
     {
         "character": "É",
         "entity": "&#201;"
-    },
-    {
-        "character": "Ê",
-        "entity": "&Ecirc"
     },
     {
         "character": "Ê",
@@ -914,10 +718,6 @@
     {
         "character": "Ė",
         "entity": "&#278;"
-    },
-    {
-        "character": "Ë",
-        "entity": "&Euml"
     },
     {
         "character": "Ë",
@@ -985,10 +785,6 @@
     },
     {
         "character": "Ì",
-        "entity": "&Igrave"
-    },
-    {
-        "character": "Ì",
         "entity": "&Igrave;"
     },
     {
@@ -997,19 +793,11 @@
     },
     {
         "character": "Í",
-        "entity": "&Iacute"
-    },
-    {
-        "character": "Í",
         "entity": "&Iacute;"
     },
     {
         "character": "Í",
         "entity": "&#205;"
-    },
-    {
-        "character": "Î",
-        "entity": "&Icirc"
     },
     {
         "character": "Î",
@@ -1042,10 +830,6 @@
     {
         "character": "İ",
         "entity": "&#304;"
-    },
-    {
-        "character": "Ï",
-        "entity": "&Iuml"
     },
     {
         "character": "Ï",
@@ -1113,10 +897,6 @@
     },
     {
         "character": "Ñ",
-        "entity": "&Ntilde"
-    },
-    {
-        "character": "Ñ",
         "entity": "&Ntilde;"
     },
     {
@@ -1141,19 +921,11 @@
     },
     {
         "character": "Ò",
-        "entity": "&Ograve"
-    },
-    {
-        "character": "Ò",
         "entity": "&Ograve;"
     },
     {
         "character": "Ò",
         "entity": "&#210;"
-    },
-    {
-        "character": "Ó",
-        "entity": "&Oacute"
     },
     {
         "character": "Ó",
@@ -1165,19 +937,11 @@
     },
     {
         "character": "Ô",
-        "entity": "&Ocirc"
-    },
-    {
-        "character": "Ô",
         "entity": "&Ocirc;"
     },
     {
         "character": "Ô",
         "entity": "&#212;"
-    },
-    {
-        "character": "Õ",
-        "entity": "&Otilde"
     },
     {
         "character": "Õ",
@@ -1194,10 +958,6 @@
     {
         "character": "Ō",
         "entity": "&#332;"
-    },
-    {
-        "character": "Ö",
-        "entity": "&Ouml"
     },
     {
         "character": "Ö",
@@ -1289,10 +1049,6 @@
     },
     {
         "character": "Ù",
-        "entity": "&Ugrave"
-    },
-    {
-        "character": "Ù",
         "entity": "&Ugrave;"
     },
     {
@@ -1301,19 +1057,11 @@
     },
     {
         "character": "Ú",
-        "entity": "&Uacute"
-    },
-    {
-        "character": "Ú",
         "entity": "&Uacute;"
     },
     {
         "character": "Ú",
         "entity": "&#218;"
-    },
-    {
-        "character": "Û",
-        "entity": "&Ucirc"
     },
     {
         "character": "Û",
@@ -1346,10 +1094,6 @@
     {
         "character": "Ŭ",
         "entity": "&#364;"
-    },
-    {
-        "character": "Ü",
-        "entity": "&Uuml"
     },
     {
         "character": "Ü",
@@ -1390,10 +1134,6 @@
     {
         "character": "Ŵ",
         "entity": "&#372;"
-    },
-    {
-        "character": "Ý",
-        "entity": "&Yacute"
     },
     {
         "character": "Ý",
@@ -1445,19 +1185,11 @@
     },
     {
         "character": "à",
-        "entity": "&agrave"
-    },
-    {
-        "character": "à",
         "entity": "&agrave;"
     },
     {
         "character": "à",
         "entity": "&#224;"
-    },
-    {
-        "character": "á",
-        "entity": "&aacute"
     },
     {
         "character": "á",
@@ -1469,19 +1201,11 @@
     },
     {
         "character": "â",
-        "entity": "&acirc"
-    },
-    {
-        "character": "â",
         "entity": "&acirc;"
     },
     {
         "character": "â",
         "entity": "&#226;"
-    },
-    {
-        "character": "ã",
-        "entity": "&atilde"
     },
     {
         "character": "ã",
@@ -1509,19 +1233,11 @@
     },
     {
         "character": "ä",
-        "entity": "&auml"
-    },
-    {
-        "character": "ä",
         "entity": "&auml;"
     },
     {
         "character": "ä",
         "entity": "&#228;"
-    },
-    {
-        "character": "å",
-        "entity": "&aring"
     },
     {
         "character": "å",
@@ -1565,10 +1281,6 @@
     },
     {
         "character": "ç",
-        "entity": "&ccedil"
-    },
-    {
-        "character": "ç",
         "entity": "&ccedil;"
     },
     {
@@ -1593,10 +1305,6 @@
     },
     {
         "character": "è",
-        "entity": "&egrave"
-    },
-    {
-        "character": "è",
         "entity": "&egrave;"
     },
     {
@@ -1605,19 +1313,11 @@
     },
     {
         "character": "é",
-        "entity": "&eacute"
-    },
-    {
-        "character": "é",
         "entity": "&eacute;"
     },
     {
         "character": "é",
         "entity": "&#233;"
-    },
-    {
-        "character": "ê",
-        "entity": "&ecirc"
     },
     {
         "character": "ê",
@@ -1642,10 +1342,6 @@
     {
         "character": "ė",
         "entity": "&#279;"
-    },
-    {
-        "character": "ë",
-        "entity": "&euml"
     },
     {
         "character": "ë",
@@ -1709,10 +1405,6 @@
     },
     {
         "character": "ì",
-        "entity": "&igrave"
-    },
-    {
-        "character": "ì",
         "entity": "&igrave;"
     },
     {
@@ -1721,19 +1413,11 @@
     },
     {
         "character": "í",
-        "entity": "&iacute"
-    },
-    {
-        "character": "í",
         "entity": "&iacute;"
     },
     {
         "character": "í",
         "entity": "&#237;"
-    },
-    {
-        "character": "î",
-        "entity": "&icirc"
     },
     {
         "character": "î",
@@ -1758,10 +1442,6 @@
     {
         "character": "ī",
         "entity": "&#299;"
-    },
-    {
-        "character": "ï",
-        "entity": "&iuml"
     },
     {
         "character": "ï",
@@ -1829,10 +1509,6 @@
     },
     {
         "character": "ñ",
-        "entity": "&ntilde"
-    },
-    {
-        "character": "ñ",
         "entity": "&ntilde;"
     },
     {
@@ -1857,19 +1533,11 @@
     },
     {
         "character": "ò",
-        "entity": "&ograve"
-    },
-    {
-        "character": "ò",
         "entity": "&ograve;"
     },
     {
         "character": "ò",
         "entity": "&#242;"
-    },
-    {
-        "character": "ó",
-        "entity": "&oacute"
     },
     {
         "character": "ó",
@@ -1881,19 +1549,11 @@
     },
     {
         "character": "ô",
-        "entity": "&ocirc"
-    },
-    {
-        "character": "ô",
         "entity": "&ocirc;"
     },
     {
         "character": "ô",
         "entity": "&#244;"
-    },
-    {
-        "character": "õ",
-        "entity": "&otilde"
     },
     {
         "character": "õ",
@@ -1910,10 +1570,6 @@
     {
         "character": "ō",
         "entity": "&#333;"
-    },
-    {
-        "character": "ö",
-        "entity": "&ouml"
     },
     {
         "character": "ö",
@@ -2005,10 +1661,6 @@
     },
     {
         "character": "ù",
-        "entity": "&ugrave"
-    },
-    {
-        "character": "ù",
         "entity": "&ugrave;"
     },
     {
@@ -2017,19 +1669,11 @@
     },
     {
         "character": "ú",
-        "entity": "&uacute"
-    },
-    {
-        "character": "ú",
         "entity": "&uacute;"
     },
     {
         "character": "ú",
         "entity": "&#250;"
-    },
-    {
-        "character": "û",
-        "entity": "&ucirc"
     },
     {
         "character": "û",
@@ -2062,10 +1706,6 @@
     {
         "character": "ŭ",
         "entity": "&#365;"
-    },
-    {
-        "character": "ü",
-        "entity": "&uuml"
     },
     {
         "character": "ü",
@@ -2109,10 +1749,6 @@
     },
     {
         "character": "ý",
-        "entity": "&yacute"
-    },
-    {
-        "character": "ý",
         "entity": "&yacute;"
     },
     {
@@ -2126,10 +1762,6 @@
     {
         "character": "ŷ",
         "entity": "&#375;"
-    },
-    {
-        "character": "ÿ",
-        "entity": "&yuml"
     },
     {
         "character": "ÿ",

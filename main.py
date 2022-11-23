@@ -26,9 +26,12 @@ def find_indices(list: list[str], item: str) -> list[int]:
     return indices
 
 
-def charToHtmlEntity(char: str) -> list[str]:
+def charToHtmlEntities(char: str, include_non_terminated: bool) -> list[str]:
     entities = list()
     for idx in find_indices(html5Values, char):
+        entity = html5Names[idx]
+        if not include_non_terminated and entity[-1] != ';':
+            continue
         entities.append('&' + html5Names[idx])
     entities.append(char
                     .encode('ascii', 'xmlcharrefreplace')
@@ -38,14 +41,14 @@ def charToHtmlEntity(char: str) -> list[str]:
     return entities
 
 
-def parseCharacterFile(path: str) -> list[dict]:
+def parseCharacterFile(path: str, include_non_terminated_entities: bool) -> list[dict]:
     file = open(path)
     chars = list()
     for line in file.readlines():
         charHex = line.replace('\n', '')
         if len(charHex) > 0:
             char = utf8HexStringToChar(charHex)
-            for entity in charToHtmlEntity(char):
+            for entity in charToHtmlEntities(char, include_non_terminated_entities):
                 if char != entity:
                     chars.append({
                         'character': char,
@@ -59,11 +62,13 @@ def writeOutputFile(data: list[dict], filename: str) -> None:
         json.dump(data, file, ensure_ascii=False, indent=4)
 
 
-def parseCharacterSet(name: str) -> None:
+def parseCharacterSet(name: str, include_non_terminated_entities: bool) -> None:
     writeOutputFile(
-        parseCharacterFile(f'characterSets/{name}.txt'),
-        name
+        parseCharacterFile(
+            f'characterSets/{name}.txt',
+            include_non_terminated_entities
+        ), name
     )
 
 
-parseCharacterSet('teletext')
+parseCharacterSet('teletext', False)
