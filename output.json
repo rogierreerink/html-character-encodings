@@ -1,0 +1,2166 @@
+[
+    {
+        "character": "!",
+        "entity": "&excl;"
+    },
+    {
+        "character": "\"",
+        "entity": "&QUOT"
+    },
+    {
+        "character": "\"",
+        "entity": "&quot"
+    },
+    {
+        "character": "\"",
+        "entity": "&QUOT;"
+    },
+    {
+        "character": "\"",
+        "entity": "&quot;"
+    },
+    {
+        "character": "%",
+        "entity": "&percnt;"
+    },
+    {
+        "character": "&",
+        "entity": "&AMP"
+    },
+    {
+        "character": "&",
+        "entity": "&amp"
+    },
+    {
+        "character": "&",
+        "entity": "&AMP;"
+    },
+    {
+        "character": "&",
+        "entity": "&amp;"
+    },
+    {
+        "character": "'",
+        "entity": "&apos;"
+    },
+    {
+        "character": "(",
+        "entity": "&lpar;"
+    },
+    {
+        "character": ")",
+        "entity": "&rpar;"
+    },
+    {
+        "character": "*",
+        "entity": "&ast;"
+    },
+    {
+        "character": "*",
+        "entity": "&midast;"
+    },
+    {
+        "character": "+",
+        "entity": "&plus;"
+    },
+    {
+        "character": ",",
+        "entity": "&comma;"
+    },
+    {
+        "character": ".",
+        "entity": "&period;"
+    },
+    {
+        "character": "/",
+        "entity": "&sol;"
+    },
+    {
+        "character": ":",
+        "entity": "&colon;"
+    },
+    {
+        "character": ";",
+        "entity": "&semi;"
+    },
+    {
+        "character": "<",
+        "entity": "&LT"
+    },
+    {
+        "character": "<",
+        "entity": "&lt"
+    },
+    {
+        "character": "<",
+        "entity": "&LT;"
+    },
+    {
+        "character": "<",
+        "entity": "&lt;"
+    },
+    {
+        "character": "=",
+        "entity": "&equals;"
+    },
+    {
+        "character": ">",
+        "entity": "&GT"
+    },
+    {
+        "character": ">",
+        "entity": "&gt"
+    },
+    {
+        "character": ">",
+        "entity": "&GT;"
+    },
+    {
+        "character": ">",
+        "entity": "&gt;"
+    },
+    {
+        "character": "?",
+        "entity": "&quest;"
+    },
+    {
+        "character": "@",
+        "entity": "&commat;"
+    },
+    {
+        "character": "[",
+        "entity": "&lbrack;"
+    },
+    {
+        "character": "[",
+        "entity": "&lsqb;"
+    },
+    {
+        "character": "]",
+        "entity": "&rbrack;"
+    },
+    {
+        "character": "]",
+        "entity": "&rsqb;"
+    },
+    {
+        "character": "_",
+        "entity": "&lowbar;"
+    },
+    {
+        "character": "_",
+        "entity": "&UnderBar;"
+    },
+    {
+        "character": "|",
+        "entity": "&verbar;"
+    },
+    {
+        "character": "|",
+        "entity": "&vert;"
+    },
+    {
+        "character": "|",
+        "entity": "&VerticalLine;"
+    },
+    {
+        "character": "¡",
+        "entity": "&iexcl"
+    },
+    {
+        "character": "¡",
+        "entity": "&iexcl;"
+    },
+    {
+        "character": "¡",
+        "entity": "&#161;"
+    },
+    {
+        "character": "¢",
+        "entity": "&cent"
+    },
+    {
+        "character": "¢",
+        "entity": "&cent;"
+    },
+    {
+        "character": "¢",
+        "entity": "&#162;"
+    },
+    {
+        "character": "£",
+        "entity": "&pound"
+    },
+    {
+        "character": "£",
+        "entity": "&pound;"
+    },
+    {
+        "character": "£",
+        "entity": "&#163;"
+    },
+    {
+        "character": "$",
+        "entity": "&dollar;"
+    },
+    {
+        "character": "¥",
+        "entity": "&yen"
+    },
+    {
+        "character": "¥",
+        "entity": "&yen;"
+    },
+    {
+        "character": "¥",
+        "entity": "&#165;"
+    },
+    {
+        "character": "#",
+        "entity": "&num;"
+    },
+    {
+        "character": "§",
+        "entity": "&sect"
+    },
+    {
+        "character": "§",
+        "entity": "&sect;"
+    },
+    {
+        "character": "§",
+        "entity": "&#167;"
+    },
+    {
+        "character": "¤",
+        "entity": "&curren"
+    },
+    {
+        "character": "¤",
+        "entity": "&curren;"
+    },
+    {
+        "character": "¤",
+        "entity": "&#164;"
+    },
+    {
+        "character": "«",
+        "entity": "&laquo"
+    },
+    {
+        "character": "«",
+        "entity": "&laquo;"
+    },
+    {
+        "character": "«",
+        "entity": "&#171;"
+    },
+    {
+        "character": "°",
+        "entity": "&deg"
+    },
+    {
+        "character": "°",
+        "entity": "&deg;"
+    },
+    {
+        "character": "°",
+        "entity": "&#176;"
+    },
+    {
+        "character": "±",
+        "entity": "&PlusMinus;"
+    },
+    {
+        "character": "±",
+        "entity": "&plusmn"
+    },
+    {
+        "character": "±",
+        "entity": "&plusmn;"
+    },
+    {
+        "character": "±",
+        "entity": "&pm;"
+    },
+    {
+        "character": "±",
+        "entity": "&#177;"
+    },
+    {
+        "character": "²",
+        "entity": "&sup2"
+    },
+    {
+        "character": "²",
+        "entity": "&sup2;"
+    },
+    {
+        "character": "²",
+        "entity": "&#178;"
+    },
+    {
+        "character": "³",
+        "entity": "&sup3"
+    },
+    {
+        "character": "³",
+        "entity": "&sup3;"
+    },
+    {
+        "character": "³",
+        "entity": "&#179;"
+    },
+    {
+        "character": "×",
+        "entity": "&times"
+    },
+    {
+        "character": "×",
+        "entity": "&times;"
+    },
+    {
+        "character": "×",
+        "entity": "&#215;"
+    },
+    {
+        "character": "µ",
+        "entity": "&micro"
+    },
+    {
+        "character": "µ",
+        "entity": "&micro;"
+    },
+    {
+        "character": "µ",
+        "entity": "&#181;"
+    },
+    {
+        "character": "¶",
+        "entity": "&para"
+    },
+    {
+        "character": "¶",
+        "entity": "&para;"
+    },
+    {
+        "character": "¶",
+        "entity": "&#182;"
+    },
+    {
+        "character": "·",
+        "entity": "&CenterDot;"
+    },
+    {
+        "character": "·",
+        "entity": "&centerdot;"
+    },
+    {
+        "character": "·",
+        "entity": "&middot"
+    },
+    {
+        "character": "·",
+        "entity": "&middot;"
+    },
+    {
+        "character": "·",
+        "entity": "&#183;"
+    },
+    {
+        "character": "÷",
+        "entity": "&div;"
+    },
+    {
+        "character": "÷",
+        "entity": "&divide"
+    },
+    {
+        "character": "÷",
+        "entity": "&divide;"
+    },
+    {
+        "character": "÷",
+        "entity": "&#247;"
+    },
+    {
+        "character": "»",
+        "entity": "&raquo"
+    },
+    {
+        "character": "»",
+        "entity": "&raquo;"
+    },
+    {
+        "character": "»",
+        "entity": "&#187;"
+    },
+    {
+        "character": "¼",
+        "entity": "&frac14"
+    },
+    {
+        "character": "¼",
+        "entity": "&frac14;"
+    },
+    {
+        "character": "¼",
+        "entity": "&#188;"
+    },
+    {
+        "character": "½",
+        "entity": "&frac12"
+    },
+    {
+        "character": "½",
+        "entity": "&frac12;"
+    },
+    {
+        "character": "½",
+        "entity": "&half;"
+    },
+    {
+        "character": "½",
+        "entity": "&#189;"
+    },
+    {
+        "character": "¾",
+        "entity": "&frac34"
+    },
+    {
+        "character": "¾",
+        "entity": "&frac34;"
+    },
+    {
+        "character": "¾",
+        "entity": "&#190;"
+    },
+    {
+        "character": "¿",
+        "entity": "&iquest"
+    },
+    {
+        "character": "¿",
+        "entity": "&iquest;"
+    },
+    {
+        "character": "¿",
+        "entity": "&#191;"
+    },
+    {
+        "character": "Ω",
+        "entity": "&#8486;"
+    },
+    {
+        "character": "Æ",
+        "entity": "&AElig"
+    },
+    {
+        "character": "Æ",
+        "entity": "&AElig;"
+    },
+    {
+        "character": "Æ",
+        "entity": "&#198;"
+    },
+    {
+        "character": "Đ",
+        "entity": "&Dstrok;"
+    },
+    {
+        "character": "Đ",
+        "entity": "&#272;"
+    },
+    {
+        "character": "ª",
+        "entity": "&ordf"
+    },
+    {
+        "character": "ª",
+        "entity": "&ordf;"
+    },
+    {
+        "character": "ª",
+        "entity": "&#170;"
+    },
+    {
+        "character": "Ħ",
+        "entity": "&Hstrok;"
+    },
+    {
+        "character": "Ħ",
+        "entity": "&#294;"
+    },
+    {
+        "character": "Ŀ",
+        "entity": "&Lmidot;"
+    },
+    {
+        "character": "Ŀ",
+        "entity": "&#319;"
+    },
+    {
+        "character": "Ł",
+        "entity": "&Lstrok;"
+    },
+    {
+        "character": "Ł",
+        "entity": "&#321;"
+    },
+    {
+        "character": "Ø",
+        "entity": "&Oslash"
+    },
+    {
+        "character": "Ø",
+        "entity": "&Oslash;"
+    },
+    {
+        "character": "Ø",
+        "entity": "&#216;"
+    },
+    {
+        "character": "Œ",
+        "entity": "&OElig;"
+    },
+    {
+        "character": "Œ",
+        "entity": "&#338;"
+    },
+    {
+        "character": "º",
+        "entity": "&ordm"
+    },
+    {
+        "character": "º",
+        "entity": "&ordm;"
+    },
+    {
+        "character": "º",
+        "entity": "&#186;"
+    },
+    {
+        "character": "Þ",
+        "entity": "&THORN"
+    },
+    {
+        "character": "Þ",
+        "entity": "&THORN;"
+    },
+    {
+        "character": "Þ",
+        "entity": "&#222;"
+    },
+    {
+        "character": "Ŧ",
+        "entity": "&Tstrok;"
+    },
+    {
+        "character": "Ŧ",
+        "entity": "&#358;"
+    },
+    {
+        "character": "Ŋ",
+        "entity": "&ENG;"
+    },
+    {
+        "character": "Ŋ",
+        "entity": "&#330;"
+    },
+    {
+        "character": "ŉ",
+        "entity": "&napos;"
+    },
+    {
+        "character": "ŉ",
+        "entity": "&#329;"
+    },
+    {
+        "character": "ĸ",
+        "entity": "&kgreen;"
+    },
+    {
+        "character": "ĸ",
+        "entity": "&#312;"
+    },
+    {
+        "character": "æ",
+        "entity": "&aelig"
+    },
+    {
+        "character": "æ",
+        "entity": "&aelig;"
+    },
+    {
+        "character": "æ",
+        "entity": "&#230;"
+    },
+    {
+        "character": "đ",
+        "entity": "&dstrok;"
+    },
+    {
+        "character": "đ",
+        "entity": "&#273;"
+    },
+    {
+        "character": "ð",
+        "entity": "&eth"
+    },
+    {
+        "character": "ð",
+        "entity": "&eth;"
+    },
+    {
+        "character": "ð",
+        "entity": "&#240;"
+    },
+    {
+        "character": "ħ",
+        "entity": "&hstrok;"
+    },
+    {
+        "character": "ħ",
+        "entity": "&#295;"
+    },
+    {
+        "character": "ı",
+        "entity": "&imath;"
+    },
+    {
+        "character": "ı",
+        "entity": "&inodot;"
+    },
+    {
+        "character": "ı",
+        "entity": "&#305;"
+    },
+    {
+        "character": "ŀ",
+        "entity": "&lmidot;"
+    },
+    {
+        "character": "ŀ",
+        "entity": "&#320;"
+    },
+    {
+        "character": "ł",
+        "entity": "&lstrok;"
+    },
+    {
+        "character": "ł",
+        "entity": "&#322;"
+    },
+    {
+        "character": "ø",
+        "entity": "&oslash"
+    },
+    {
+        "character": "ø",
+        "entity": "&oslash;"
+    },
+    {
+        "character": "ø",
+        "entity": "&#248;"
+    },
+    {
+        "character": "œ",
+        "entity": "&oelig;"
+    },
+    {
+        "character": "œ",
+        "entity": "&#339;"
+    },
+    {
+        "character": "ß",
+        "entity": "&szlig"
+    },
+    {
+        "character": "ß",
+        "entity": "&szlig;"
+    },
+    {
+        "character": "ß",
+        "entity": "&#223;"
+    },
+    {
+        "character": "þ",
+        "entity": "&thorn"
+    },
+    {
+        "character": "þ",
+        "entity": "&thorn;"
+    },
+    {
+        "character": "þ",
+        "entity": "&#254;"
+    },
+    {
+        "character": "ŧ",
+        "entity": "&tstrok;"
+    },
+    {
+        "character": "ŧ",
+        "entity": "&#359;"
+    },
+    {
+        "character": "ŋ",
+        "entity": "&eng;"
+    },
+    {
+        "character": "ŋ",
+        "entity": "&#331;"
+    },
+    {
+        "character": "À",
+        "entity": "&Agrave"
+    },
+    {
+        "character": "À",
+        "entity": "&Agrave;"
+    },
+    {
+        "character": "À",
+        "entity": "&#192;"
+    },
+    {
+        "character": "Á",
+        "entity": "&Aacute"
+    },
+    {
+        "character": "Á",
+        "entity": "&Aacute;"
+    },
+    {
+        "character": "Á",
+        "entity": "&#193;"
+    },
+    {
+        "character": "Â",
+        "entity": "&Acirc"
+    },
+    {
+        "character": "Â",
+        "entity": "&Acirc;"
+    },
+    {
+        "character": "Â",
+        "entity": "&#194;"
+    },
+    {
+        "character": "Ã",
+        "entity": "&Atilde"
+    },
+    {
+        "character": "Ã",
+        "entity": "&Atilde;"
+    },
+    {
+        "character": "Ã",
+        "entity": "&#195;"
+    },
+    {
+        "character": "Ā",
+        "entity": "&Amacr;"
+    },
+    {
+        "character": "Ā",
+        "entity": "&#256;"
+    },
+    {
+        "character": "Ă",
+        "entity": "&Abreve;"
+    },
+    {
+        "character": "Ă",
+        "entity": "&#258;"
+    },
+    {
+        "character": "Ä",
+        "entity": "&Auml"
+    },
+    {
+        "character": "Ä",
+        "entity": "&Auml;"
+    },
+    {
+        "character": "Ä",
+        "entity": "&#196;"
+    },
+    {
+        "character": "Å",
+        "entity": "&angst;"
+    },
+    {
+        "character": "Å",
+        "entity": "&Aring"
+    },
+    {
+        "character": "Å",
+        "entity": "&Aring;"
+    },
+    {
+        "character": "Å",
+        "entity": "&#197;"
+    },
+    {
+        "character": "Ą",
+        "entity": "&Aogon;"
+    },
+    {
+        "character": "Ą",
+        "entity": "&#260;"
+    },
+    {
+        "character": "Ć",
+        "entity": "&Cacute;"
+    },
+    {
+        "character": "Ć",
+        "entity": "&#262;"
+    },
+    {
+        "character": "Ĉ",
+        "entity": "&Ccirc;"
+    },
+    {
+        "character": "Ĉ",
+        "entity": "&#264;"
+    },
+    {
+        "character": "Ċ",
+        "entity": "&Cdot;"
+    },
+    {
+        "character": "Ċ",
+        "entity": "&#266;"
+    },
+    {
+        "character": "Ç",
+        "entity": "&Ccedil"
+    },
+    {
+        "character": "Ç",
+        "entity": "&Ccedil;"
+    },
+    {
+        "character": "Ç",
+        "entity": "&#199;"
+    },
+    {
+        "character": "Č",
+        "entity": "&Ccaron;"
+    },
+    {
+        "character": "Č",
+        "entity": "&#268;"
+    },
+    {
+        "character": "Ď",
+        "entity": "&Dcaron;"
+    },
+    {
+        "character": "Ď",
+        "entity": "&#270;"
+    },
+    {
+        "character": "È",
+        "entity": "&Egrave"
+    },
+    {
+        "character": "È",
+        "entity": "&Egrave;"
+    },
+    {
+        "character": "È",
+        "entity": "&#200;"
+    },
+    {
+        "character": "É",
+        "entity": "&Eacute"
+    },
+    {
+        "character": "É",
+        "entity": "&Eacute;"
+    },
+    {
+        "character": "É",
+        "entity": "&#201;"
+    },
+    {
+        "character": "Ê",
+        "entity": "&Ecirc"
+    },
+    {
+        "character": "Ê",
+        "entity": "&Ecirc;"
+    },
+    {
+        "character": "Ê",
+        "entity": "&#202;"
+    },
+    {
+        "character": "Ē",
+        "entity": "&Emacr;"
+    },
+    {
+        "character": "Ē",
+        "entity": "&#274;"
+    },
+    {
+        "character": "Ė",
+        "entity": "&Edot;"
+    },
+    {
+        "character": "Ė",
+        "entity": "&#278;"
+    },
+    {
+        "character": "Ë",
+        "entity": "&Euml"
+    },
+    {
+        "character": "Ë",
+        "entity": "&Euml;"
+    },
+    {
+        "character": "Ë",
+        "entity": "&#203;"
+    },
+    {
+        "character": "Ę",
+        "entity": "&Eogon;"
+    },
+    {
+        "character": "Ę",
+        "entity": "&#280;"
+    },
+    {
+        "character": "Ě",
+        "entity": "&Ecaron;"
+    },
+    {
+        "character": "Ě",
+        "entity": "&#282;"
+    },
+    {
+        "character": "Ĝ",
+        "entity": "&Gcirc;"
+    },
+    {
+        "character": "Ĝ",
+        "entity": "&#284;"
+    },
+    {
+        "character": "Ğ",
+        "entity": "&Gbreve;"
+    },
+    {
+        "character": "Ğ",
+        "entity": "&#286;"
+    },
+    {
+        "character": "Ġ",
+        "entity": "&Gdot;"
+    },
+    {
+        "character": "Ġ",
+        "entity": "&#288;"
+    },
+    {
+        "character": "Ģ",
+        "entity": "&Gcedil;"
+    },
+    {
+        "character": "Ģ",
+        "entity": "&#290;"
+    },
+    {
+        "character": "Ĥ",
+        "entity": "&Hcirc;"
+    },
+    {
+        "character": "Ĥ",
+        "entity": "&#292;"
+    },
+    {
+        "character": "Ì",
+        "entity": "&Igrave"
+    },
+    {
+        "character": "Ì",
+        "entity": "&Igrave;"
+    },
+    {
+        "character": "Ì",
+        "entity": "&#204;"
+    },
+    {
+        "character": "Í",
+        "entity": "&Iacute"
+    },
+    {
+        "character": "Í",
+        "entity": "&Iacute;"
+    },
+    {
+        "character": "Í",
+        "entity": "&#205;"
+    },
+    {
+        "character": "Î",
+        "entity": "&Icirc"
+    },
+    {
+        "character": "Î",
+        "entity": "&Icirc;"
+    },
+    {
+        "character": "Î",
+        "entity": "&#206;"
+    },
+    {
+        "character": "Ĩ",
+        "entity": "&Itilde;"
+    },
+    {
+        "character": "Ĩ",
+        "entity": "&#296;"
+    },
+    {
+        "character": "Ī",
+        "entity": "&Imacr;"
+    },
+    {
+        "character": "Ī",
+        "entity": "&#298;"
+    },
+    {
+        "character": "İ",
+        "entity": "&Idot;"
+    },
+    {
+        "character": "İ",
+        "entity": "&#304;"
+    },
+    {
+        "character": "Ï",
+        "entity": "&Iuml"
+    },
+    {
+        "character": "Ï",
+        "entity": "&Iuml;"
+    },
+    {
+        "character": "Ï",
+        "entity": "&#207;"
+    },
+    {
+        "character": "Į",
+        "entity": "&Iogon;"
+    },
+    {
+        "character": "Į",
+        "entity": "&#302;"
+    },
+    {
+        "character": "Ĵ",
+        "entity": "&Jcirc;"
+    },
+    {
+        "character": "Ĵ",
+        "entity": "&#308;"
+    },
+    {
+        "character": "Ķ",
+        "entity": "&Kcedil;"
+    },
+    {
+        "character": "Ķ",
+        "entity": "&#310;"
+    },
+    {
+        "character": "Ĺ",
+        "entity": "&Lacute;"
+    },
+    {
+        "character": "Ĺ",
+        "entity": "&#313;"
+    },
+    {
+        "character": "Ļ",
+        "entity": "&Lcedil;"
+    },
+    {
+        "character": "Ļ",
+        "entity": "&#315;"
+    },
+    {
+        "character": "Ľ",
+        "entity": "&Lcaron;"
+    },
+    {
+        "character": "Ľ",
+        "entity": "&#317;"
+    },
+    {
+        "character": "Ń",
+        "entity": "&Nacute;"
+    },
+    {
+        "character": "Ń",
+        "entity": "&#323;"
+    },
+    {
+        "character": "Ñ",
+        "entity": "&Ntilde"
+    },
+    {
+        "character": "Ñ",
+        "entity": "&Ntilde;"
+    },
+    {
+        "character": "Ñ",
+        "entity": "&#209;"
+    },
+    {
+        "character": "Ņ",
+        "entity": "&Ncedil;"
+    },
+    {
+        "character": "Ņ",
+        "entity": "&#325;"
+    },
+    {
+        "character": "Ň",
+        "entity": "&Ncaron;"
+    },
+    {
+        "character": "Ň",
+        "entity": "&#327;"
+    },
+    {
+        "character": "Ò",
+        "entity": "&Ograve"
+    },
+    {
+        "character": "Ò",
+        "entity": "&Ograve;"
+    },
+    {
+        "character": "Ò",
+        "entity": "&#210;"
+    },
+    {
+        "character": "Ó",
+        "entity": "&Oacute"
+    },
+    {
+        "character": "Ó",
+        "entity": "&Oacute;"
+    },
+    {
+        "character": "Ó",
+        "entity": "&#211;"
+    },
+    {
+        "character": "Ô",
+        "entity": "&Ocirc"
+    },
+    {
+        "character": "Ô",
+        "entity": "&Ocirc;"
+    },
+    {
+        "character": "Ô",
+        "entity": "&#212;"
+    },
+    {
+        "character": "Õ",
+        "entity": "&Otilde"
+    },
+    {
+        "character": "Õ",
+        "entity": "&Otilde;"
+    },
+    {
+        "character": "Õ",
+        "entity": "&#213;"
+    },
+    {
+        "character": "Ō",
+        "entity": "&Omacr;"
+    },
+    {
+        "character": "Ō",
+        "entity": "&#332;"
+    },
+    {
+        "character": "Ö",
+        "entity": "&Ouml"
+    },
+    {
+        "character": "Ö",
+        "entity": "&Ouml;"
+    },
+    {
+        "character": "Ö",
+        "entity": "&#214;"
+    },
+    {
+        "character": "Ő",
+        "entity": "&Odblac;"
+    },
+    {
+        "character": "Ő",
+        "entity": "&#336;"
+    },
+    {
+        "character": "Ŕ",
+        "entity": "&Racute;"
+    },
+    {
+        "character": "Ŕ",
+        "entity": "&#340;"
+    },
+    {
+        "character": "Ŗ",
+        "entity": "&Rcedil;"
+    },
+    {
+        "character": "Ŗ",
+        "entity": "&#342;"
+    },
+    {
+        "character": "Ř",
+        "entity": "&Rcaron;"
+    },
+    {
+        "character": "Ř",
+        "entity": "&#344;"
+    },
+    {
+        "character": "Ś",
+        "entity": "&Sacute;"
+    },
+    {
+        "character": "Ś",
+        "entity": "&#346;"
+    },
+    {
+        "character": "Ŝ",
+        "entity": "&Scirc;"
+    },
+    {
+        "character": "Ŝ",
+        "entity": "&#348;"
+    },
+    {
+        "character": "Ş",
+        "entity": "&Scedil;"
+    },
+    {
+        "character": "Ş",
+        "entity": "&#350;"
+    },
+    {
+        "character": "Š",
+        "entity": "&Scaron;"
+    },
+    {
+        "character": "Š",
+        "entity": "&#352;"
+    },
+    {
+        "character": "Ţ",
+        "entity": "&Tcedil;"
+    },
+    {
+        "character": "Ţ",
+        "entity": "&#354;"
+    },
+    {
+        "character": "Ť",
+        "entity": "&Tcaron;"
+    },
+    {
+        "character": "Ť",
+        "entity": "&#356;"
+    },
+    {
+        "character": "Ù",
+        "entity": "&Ugrave"
+    },
+    {
+        "character": "Ù",
+        "entity": "&Ugrave;"
+    },
+    {
+        "character": "Ù",
+        "entity": "&#217;"
+    },
+    {
+        "character": "Ú",
+        "entity": "&Uacute"
+    },
+    {
+        "character": "Ú",
+        "entity": "&Uacute;"
+    },
+    {
+        "character": "Ú",
+        "entity": "&#218;"
+    },
+    {
+        "character": "Û",
+        "entity": "&Ucirc"
+    },
+    {
+        "character": "Û",
+        "entity": "&Ucirc;"
+    },
+    {
+        "character": "Û",
+        "entity": "&#219;"
+    },
+    {
+        "character": "Ũ",
+        "entity": "&Utilde;"
+    },
+    {
+        "character": "Ũ",
+        "entity": "&#360;"
+    },
+    {
+        "character": "Ū",
+        "entity": "&Umacr;"
+    },
+    {
+        "character": "Ū",
+        "entity": "&#362;"
+    },
+    {
+        "character": "Ŭ",
+        "entity": "&Ubreve;"
+    },
+    {
+        "character": "Ŭ",
+        "entity": "&#364;"
+    },
+    {
+        "character": "Ü",
+        "entity": "&Uuml"
+    },
+    {
+        "character": "Ü",
+        "entity": "&Uuml;"
+    },
+    {
+        "character": "Ü",
+        "entity": "&#220;"
+    },
+    {
+        "character": "Ů",
+        "entity": "&Uring;"
+    },
+    {
+        "character": "Ů",
+        "entity": "&#366;"
+    },
+    {
+        "character": "Ű",
+        "entity": "&Udblac;"
+    },
+    {
+        "character": "Ű",
+        "entity": "&#368;"
+    },
+    {
+        "character": "Ų",
+        "entity": "&Uogon;"
+    },
+    {
+        "character": "Ų",
+        "entity": "&#370;"
+    },
+    {
+        "character": "Ŵ",
+        "entity": "&Wcirc;"
+    },
+    {
+        "character": "Ŵ",
+        "entity": "&#372;"
+    },
+    {
+        "character": "Ý",
+        "entity": "&Yacute"
+    },
+    {
+        "character": "Ý",
+        "entity": "&Yacute;"
+    },
+    {
+        "character": "Ý",
+        "entity": "&#221;"
+    },
+    {
+        "character": "Ŷ",
+        "entity": "&Ycirc;"
+    },
+    {
+        "character": "Ŷ",
+        "entity": "&#374;"
+    },
+    {
+        "character": "Ÿ",
+        "entity": "&Yuml;"
+    },
+    {
+        "character": "Ÿ",
+        "entity": "&#376;"
+    },
+    {
+        "character": "Ź",
+        "entity": "&Zacute;"
+    },
+    {
+        "character": "Ź",
+        "entity": "&#377;"
+    },
+    {
+        "character": "Ż",
+        "entity": "&Zdot;"
+    },
+    {
+        "character": "Ż",
+        "entity": "&#379;"
+    },
+    {
+        "character": "Ž",
+        "entity": "&Zcaron;"
+    },
+    {
+        "character": "Ž",
+        "entity": "&#381;"
+    },
+    {
+        "character": "à",
+        "entity": "&agrave"
+    },
+    {
+        "character": "à",
+        "entity": "&agrave;"
+    },
+    {
+        "character": "à",
+        "entity": "&#224;"
+    },
+    {
+        "character": "á",
+        "entity": "&aacute"
+    },
+    {
+        "character": "á",
+        "entity": "&aacute;"
+    },
+    {
+        "character": "á",
+        "entity": "&#225;"
+    },
+    {
+        "character": "â",
+        "entity": "&acirc"
+    },
+    {
+        "character": "â",
+        "entity": "&acirc;"
+    },
+    {
+        "character": "â",
+        "entity": "&#226;"
+    },
+    {
+        "character": "ã",
+        "entity": "&atilde"
+    },
+    {
+        "character": "ã",
+        "entity": "&atilde;"
+    },
+    {
+        "character": "ã",
+        "entity": "&#227;"
+    },
+    {
+        "character": "ā",
+        "entity": "&amacr;"
+    },
+    {
+        "character": "ā",
+        "entity": "&#257;"
+    },
+    {
+        "character": "ă",
+        "entity": "&abreve;"
+    },
+    {
+        "character": "ă",
+        "entity": "&#259;"
+    },
+    {
+        "character": "ä",
+        "entity": "&auml"
+    },
+    {
+        "character": "ä",
+        "entity": "&auml;"
+    },
+    {
+        "character": "ä",
+        "entity": "&#228;"
+    },
+    {
+        "character": "å",
+        "entity": "&aring"
+    },
+    {
+        "character": "å",
+        "entity": "&aring;"
+    },
+    {
+        "character": "å",
+        "entity": "&#229;"
+    },
+    {
+        "character": "ą",
+        "entity": "&aogon;"
+    },
+    {
+        "character": "ą",
+        "entity": "&#261;"
+    },
+    {
+        "character": "ć",
+        "entity": "&cacute;"
+    },
+    {
+        "character": "ć",
+        "entity": "&#263;"
+    },
+    {
+        "character": "ĉ",
+        "entity": "&ccirc;"
+    },
+    {
+        "character": "ĉ",
+        "entity": "&#265;"
+    },
+    {
+        "character": "ċ",
+        "entity": "&cdot;"
+    },
+    {
+        "character": "ċ",
+        "entity": "&#267;"
+    },
+    {
+        "character": "ç",
+        "entity": "&ccedil"
+    },
+    {
+        "character": "ç",
+        "entity": "&ccedil;"
+    },
+    {
+        "character": "ç",
+        "entity": "&#231;"
+    },
+    {
+        "character": "č",
+        "entity": "&ccaron;"
+    },
+    {
+        "character": "č",
+        "entity": "&#269;"
+    },
+    {
+        "character": "ď",
+        "entity": "&dcaron;"
+    },
+    {
+        "character": "ď",
+        "entity": "&#271;"
+    },
+    {
+        "character": "è",
+        "entity": "&egrave"
+    },
+    {
+        "character": "è",
+        "entity": "&egrave;"
+    },
+    {
+        "character": "è",
+        "entity": "&#232;"
+    },
+    {
+        "character": "é",
+        "entity": "&eacute"
+    },
+    {
+        "character": "é",
+        "entity": "&eacute;"
+    },
+    {
+        "character": "é",
+        "entity": "&#233;"
+    },
+    {
+        "character": "ê",
+        "entity": "&ecirc"
+    },
+    {
+        "character": "ê",
+        "entity": "&ecirc;"
+    },
+    {
+        "character": "ê",
+        "entity": "&#234;"
+    },
+    {
+        "character": "ē",
+        "entity": "&emacr;"
+    },
+    {
+        "character": "ē",
+        "entity": "&#275;"
+    },
+    {
+        "character": "ė",
+        "entity": "&edot;"
+    },
+    {
+        "character": "ė",
+        "entity": "&#279;"
+    },
+    {
+        "character": "ë",
+        "entity": "&euml"
+    },
+    {
+        "character": "ë",
+        "entity": "&euml;"
+    },
+    {
+        "character": "ë",
+        "entity": "&#235;"
+    },
+    {
+        "character": "ę",
+        "entity": "&eogon;"
+    },
+    {
+        "character": "ę",
+        "entity": "&#281;"
+    },
+    {
+        "character": "ě",
+        "entity": "&ecaron;"
+    },
+    {
+        "character": "ě",
+        "entity": "&#283;"
+    },
+    {
+        "character": "ģ",
+        "entity": "&#291;"
+    },
+    {
+        "character": "ĝ",
+        "entity": "&gcirc;"
+    },
+    {
+        "character": "ĝ",
+        "entity": "&#285;"
+    },
+    {
+        "character": "ğ",
+        "entity": "&gbreve;"
+    },
+    {
+        "character": "ğ",
+        "entity": "&#287;"
+    },
+    {
+        "character": "ġ",
+        "entity": "&gdot;"
+    },
+    {
+        "character": "ġ",
+        "entity": "&#289;"
+    },
+    {
+        "character": "ĥ",
+        "entity": "&hcirc;"
+    },
+    {
+        "character": "ĥ",
+        "entity": "&#293;"
+    },
+    {
+        "character": "ì",
+        "entity": "&igrave"
+    },
+    {
+        "character": "ì",
+        "entity": "&igrave;"
+    },
+    {
+        "character": "ì",
+        "entity": "&#236;"
+    },
+    {
+        "character": "í",
+        "entity": "&iacute"
+    },
+    {
+        "character": "í",
+        "entity": "&iacute;"
+    },
+    {
+        "character": "í",
+        "entity": "&#237;"
+    },
+    {
+        "character": "î",
+        "entity": "&icirc"
+    },
+    {
+        "character": "î",
+        "entity": "&icirc;"
+    },
+    {
+        "character": "î",
+        "entity": "&#238;"
+    },
+    {
+        "character": "ĩ",
+        "entity": "&itilde;"
+    },
+    {
+        "character": "ĩ",
+        "entity": "&#297;"
+    },
+    {
+        "character": "ī",
+        "entity": "&imacr;"
+    },
+    {
+        "character": "ī",
+        "entity": "&#299;"
+    },
+    {
+        "character": "ï",
+        "entity": "&iuml"
+    },
+    {
+        "character": "ï",
+        "entity": "&iuml;"
+    },
+    {
+        "character": "ï",
+        "entity": "&#239;"
+    },
+    {
+        "character": "į",
+        "entity": "&iogon;"
+    },
+    {
+        "character": "į",
+        "entity": "&#303;"
+    },
+    {
+        "character": "ĵ",
+        "entity": "&jcirc;"
+    },
+    {
+        "character": "ĵ",
+        "entity": "&#309;"
+    },
+    {
+        "character": "ķ",
+        "entity": "&kcedil;"
+    },
+    {
+        "character": "ķ",
+        "entity": "&#311;"
+    },
+    {
+        "character": "ĺ",
+        "entity": "&lacute;"
+    },
+    {
+        "character": "ĺ",
+        "entity": "&#314;"
+    },
+    {
+        "character": "ļ",
+        "entity": "&lcedil;"
+    },
+    {
+        "character": "ļ",
+        "entity": "&#316;"
+    },
+    {
+        "character": "ľ",
+        "entity": "&lcaron;"
+    },
+    {
+        "character": "ľ",
+        "entity": "&#318;"
+    },
+    {
+        "character": "ń",
+        "entity": "&nacute;"
+    },
+    {
+        "character": "ń",
+        "entity": "&#324;"
+    },
+    {
+        "character": "ñ",
+        "entity": "&ntilde"
+    },
+    {
+        "character": "ñ",
+        "entity": "&ntilde;"
+    },
+    {
+        "character": "ñ",
+        "entity": "&#241;"
+    },
+    {
+        "character": "ņ",
+        "entity": "&ncedil;"
+    },
+    {
+        "character": "ņ",
+        "entity": "&#326;"
+    },
+    {
+        "character": "ň",
+        "entity": "&ncaron;"
+    },
+    {
+        "character": "ň",
+        "entity": "&#328;"
+    },
+    {
+        "character": "ò",
+        "entity": "&ograve"
+    },
+    {
+        "character": "ò",
+        "entity": "&ograve;"
+    },
+    {
+        "character": "ò",
+        "entity": "&#242;"
+    },
+    {
+        "character": "ó",
+        "entity": "&oacute"
+    },
+    {
+        "character": "ó",
+        "entity": "&oacute;"
+    },
+    {
+        "character": "ó",
+        "entity": "&#243;"
+    },
+    {
+        "character": "ô",
+        "entity": "&ocirc"
+    },
+    {
+        "character": "ô",
+        "entity": "&ocirc;"
+    },
+    {
+        "character": "ô",
+        "entity": "&#244;"
+    },
+    {
+        "character": "õ",
+        "entity": "&otilde"
+    },
+    {
+        "character": "õ",
+        "entity": "&otilde;"
+    },
+    {
+        "character": "õ",
+        "entity": "&#245;"
+    },
+    {
+        "character": "ō",
+        "entity": "&omacr;"
+    },
+    {
+        "character": "ō",
+        "entity": "&#333;"
+    },
+    {
+        "character": "ö",
+        "entity": "&ouml"
+    },
+    {
+        "character": "ö",
+        "entity": "&ouml;"
+    },
+    {
+        "character": "ö",
+        "entity": "&#246;"
+    },
+    {
+        "character": "ő",
+        "entity": "&odblac;"
+    },
+    {
+        "character": "ő",
+        "entity": "&#337;"
+    },
+    {
+        "character": "ŕ",
+        "entity": "&racute;"
+    },
+    {
+        "character": "ŕ",
+        "entity": "&#341;"
+    },
+    {
+        "character": "ŗ",
+        "entity": "&rcedil;"
+    },
+    {
+        "character": "ŗ",
+        "entity": "&#343;"
+    },
+    {
+        "character": "ř",
+        "entity": "&rcaron;"
+    },
+    {
+        "character": "ř",
+        "entity": "&#345;"
+    },
+    {
+        "character": "ś",
+        "entity": "&sacute;"
+    },
+    {
+        "character": "ś",
+        "entity": "&#347;"
+    },
+    {
+        "character": "ŝ",
+        "entity": "&scirc;"
+    },
+    {
+        "character": "ŝ",
+        "entity": "&#349;"
+    },
+    {
+        "character": "ş",
+        "entity": "&scedil;"
+    },
+    {
+        "character": "ş",
+        "entity": "&#351;"
+    },
+    {
+        "character": "š",
+        "entity": "&scaron;"
+    },
+    {
+        "character": "š",
+        "entity": "&#353;"
+    },
+    {
+        "character": "ţ",
+        "entity": "&tcedil;"
+    },
+    {
+        "character": "ţ",
+        "entity": "&#355;"
+    },
+    {
+        "character": "ť",
+        "entity": "&tcaron;"
+    },
+    {
+        "character": "ť",
+        "entity": "&#357;"
+    },
+    {
+        "character": "ù",
+        "entity": "&ugrave"
+    },
+    {
+        "character": "ù",
+        "entity": "&ugrave;"
+    },
+    {
+        "character": "ù",
+        "entity": "&#249;"
+    },
+    {
+        "character": "ú",
+        "entity": "&uacute"
+    },
+    {
+        "character": "ú",
+        "entity": "&uacute;"
+    },
+    {
+        "character": "ú",
+        "entity": "&#250;"
+    },
+    {
+        "character": "û",
+        "entity": "&ucirc"
+    },
+    {
+        "character": "û",
+        "entity": "&ucirc;"
+    },
+    {
+        "character": "û",
+        "entity": "&#251;"
+    },
+    {
+        "character": "ũ",
+        "entity": "&utilde;"
+    },
+    {
+        "character": "ũ",
+        "entity": "&#361;"
+    },
+    {
+        "character": "ū",
+        "entity": "&umacr;"
+    },
+    {
+        "character": "ū",
+        "entity": "&#363;"
+    },
+    {
+        "character": "ŭ",
+        "entity": "&ubreve;"
+    },
+    {
+        "character": "ŭ",
+        "entity": "&#365;"
+    },
+    {
+        "character": "ü",
+        "entity": "&uuml"
+    },
+    {
+        "character": "ü",
+        "entity": "&uuml;"
+    },
+    {
+        "character": "ü",
+        "entity": "&#252;"
+    },
+    {
+        "character": "ů",
+        "entity": "&uring;"
+    },
+    {
+        "character": "ů",
+        "entity": "&#367;"
+    },
+    {
+        "character": "ű",
+        "entity": "&udblac;"
+    },
+    {
+        "character": "ű",
+        "entity": "&#369;"
+    },
+    {
+        "character": "ų",
+        "entity": "&uogon;"
+    },
+    {
+        "character": "ų",
+        "entity": "&#371;"
+    },
+    {
+        "character": "ŵ",
+        "entity": "&wcirc;"
+    },
+    {
+        "character": "ŵ",
+        "entity": "&#373;"
+    },
+    {
+        "character": "ý",
+        "entity": "&yacute"
+    },
+    {
+        "character": "ý",
+        "entity": "&yacute;"
+    },
+    {
+        "character": "ý",
+        "entity": "&#253;"
+    },
+    {
+        "character": "ŷ",
+        "entity": "&ycirc;"
+    },
+    {
+        "character": "ŷ",
+        "entity": "&#375;"
+    },
+    {
+        "character": "ÿ",
+        "entity": "&yuml"
+    },
+    {
+        "character": "ÿ",
+        "entity": "&yuml;"
+    },
+    {
+        "character": "ÿ",
+        "entity": "&#255;"
+    },
+    {
+        "character": "ź",
+        "entity": "&zacute;"
+    },
+    {
+        "character": "ź",
+        "entity": "&#378;"
+    },
+    {
+        "character": "ż",
+        "entity": "&zdot;"
+    },
+    {
+        "character": "ż",
+        "entity": "&#380;"
+    },
+    {
+        "character": "ž",
+        "entity": "&zcaron;"
+    },
+    {
+        "character": "ž",
+        "entity": "&#382;"
+    }
+]
