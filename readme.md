@@ -1,1 +1,1 @@
-# UTF-8 Entity Generator
+# UTF-8 / HTML Entity Dictionary Generator

@@ -1,5 +1,4 @@
 import html
-import pprint
 import json
 
 
@@ -55,11 +54,16 @@ def parseCharacterFile(path: str) -> list[dict]:
     return chars
 
 
-def writeOutputFile(data: list[dict]):
-    with open('output.json', 'w', encoding='utf-8') as file:
+def writeOutputFile(data: list[dict], filename: str) -> None:
+    with open(f'output/{filename}.json', 'w', encoding='utf-8') as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
 
 
-writeOutputFile(
-    parseCharacterFile('assets/teletext.txt')
-)
+def parseCharacterSet(name: str) -> None:
+    writeOutputFile(
+        parseCharacterFile(f'characterSets/{name}.txt'),
+        name
+    )
+
+
+parseCharacterSet('teletext')
